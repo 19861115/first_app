@@ -5,3 +5,4 @@ This is the first application for the
 by [Michaer Hartl](http://michaelhartl.com/).
 
 test update 1
+test update 2
