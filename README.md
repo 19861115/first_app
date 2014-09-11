@@ -8,3 +8,5 @@ test update 1
 test update 2
 test update 3
 test update 4
+A
+B
